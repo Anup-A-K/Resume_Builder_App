@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Resume Builder</string>
+    <string name="create_resume">Create Resume</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="personal_details">Personal Details</string>
+    <string name="education">Education</string>
+    <string name="projects">Projects</string>
+    <string name="skills">Skills</string>
+    <string name="competitions">Competitions</string>
+    <string name="achievements">Achievements</string>
+    <string name="download">Download Resume</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone Number</string>
+    <string name="address">Address</string>
+    <string name="save">Save</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
